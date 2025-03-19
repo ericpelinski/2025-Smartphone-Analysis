@@ -31,7 +31,15 @@ IV. PowerBI Dashboard
 
 ![Dashboard Preview 1](PowerBI-Pricing.png)
 
+This dashboard shows the general trends of smartphone pricing in the US. 
 
+- Average Price Over Time Chart: The line graph in the top left depicts the average launch price of smartphones in the US, showing a trend of increasing average price since 2014. 
+
+- Company Selection Filter: Interactive company filter which allows users to isolate and compare specific manufacturers' pricing strategies in the US.
+
+- Time Range Slider:  Enables analysis across different launch years (2014-2025), helping identify market trends over time.
+
+- Brand Comparison Bar Chart: The bar chart at the bottom compares average launch prices across all major smartphone manufacturers, highlighting Sony, Huawei, and Apple as premium-priced brands, while Nokia, Infinix, and Realme position themselves in the budget segment.
 
 ![Dashboard Preview 2](PowerBI-Specs.png)
 
@@ -40,11 +48,18 @@ This dashboard demonstrates the relationship between smartphone specifications a
 
 - Price-to-RAM Ratio Analysis: The scatter plot in the top-left corner visualizes how US launch prices correlate with RAM capacity, revealing the premium consumers pay for additional memory.
 
-- Brand Selection Filter: Interactive company filter which allows users to isolate and compare specific manufacturers' pricing and specification strategies.
+- Company Selection Filter: Interactive company filter which allows users to isolate and compare specific manufacturers' pricing and specification strategies.
 
 - Time Range Slider: Enables analysis across different launch years (2014-2025), helping identify market trends over time.
 
 - RAM Evolution Chart: The line graph on the bottom-left tracks the average RAM capacity in smartphones over time, showing the steady increase in memory specifications through time.
 
 - Battery Capacity Trends: The bottom-right visualization shows how battery capacity has evolved over the years, indicating periods of significant improvement as well as plateaus.
+
+V. Conclusion and Future Research
+
+This analysis reveals useful insights into the smartphone market within the United States, where smartphone manufacturers can use the data regarding market positioning of competing brands to inform their own pricing strategies as well as identifying any potential gaps in the market. Furthermore, the RAM and battery capacity evolution charts help manufacturers benchmark their development roadmaps against industry trends, ultimately assisting brands in positioning their products competitively. Consumers can also benefit from the findings in this analysis, where identifying market segments can assist in consumers selecting brands that fit their budget. Additionally, the steady increase in both RAM and battery capacity over time creates a baseline for what consumers should expect at different price points in today's market, helping them identify whether a new smartphone purchase justifies its cost.
+
+This project, of course, has room for improvement. The dataset is not entirely representative of the entire smartphone market, since it excludes smaller brands such as Asus and HTC. Furthermore, its data reaches back only to 2014, making long-term assessments of the market purely inferential. Other specifications about smartphones which could be useful for bolstering the analysis like screen resolution, storage capacity, and other features like fingerprint scanners and facial recognition would certainly provide a deeper, more comprehensive picture of the market today. Lastly, this analysis is purely focused on the smartphone industry within the United States, limiting the applicability of this analysis to those within the US market. Future research can add in these extra specifications to the analysis, as well as including additional markets, to provide a deeper analysis which can benefit a broader range of companies and consumers. 
+
 
