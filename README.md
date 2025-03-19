@@ -29,3 +29,22 @@ visualization in PowerBI. Additionally, vague and missing values were removed fr
 
 IV. PowerBI Dashboard 
 
+![Dashboard Preview 1](PowerBI-Pricing.png)
+
+
+
+![Dashboard Preview 2](PowerBI-Specs.png)
+
+
+This dashboard demonstrates the relationship between smartphone specifications and pricing in the US market. This page features:
+
+- Price-to-RAM Ratio Analysis: The scatter plot in the top-left corner visualizes how US launch prices correlate with RAM capacity, revealing the premium consumers pay for additional memory.
+
+- Brand Selection Filter: Interactive company filter which allows users to isolate and compare specific manufacturers' pricing and specification strategies.
+
+- Time Range Slider: Enables analysis across different launch years (2014-2025), helping identify market trends over time.
+
+- RAM Evolution Chart: The line graph on the bottom-left tracks the average RAM capacity in smartphones over time, showing the steady increase in memory specifications through time.
+
+- Battery Capacity Trends: The bottom-right visualization shows how battery capacity has evolved over the years, indicating periods of significant improvement as well as plateaus.
+
