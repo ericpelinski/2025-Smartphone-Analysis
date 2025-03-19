@@ -4,7 +4,10 @@ I. Overview
 
 This PowerBI dashboard aims to analyze a comprehensive dataset containing information about smartphone companies, models, their prices, release years, and technical specifications. The dashboard provides insights regarding year over year trends in smartphone pricing within the United States, as well as hardware trends in relation to prices to hopefully provide meaningful information to both consumers and companies within the industry.
 
-
+Skills and tools used: 
+- Python/Pandas: Cleaned and manipulated CSV files to be ready for analysis. Removed outliers, missing data, and corrected datatypes.
+- PowerBI: Visualized data to be accessible for users without technical expertise; implemented interactive sliders and selectors to allow for detailed data exploration.
+  
 
 II. Dataset Discussion
 
