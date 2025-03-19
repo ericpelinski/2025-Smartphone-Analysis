@@ -11,8 +11,12 @@ The dataset used in this project was found on kaggle.com here: https://www.kaggl
 The dataset includes specifications and official launch prices of various mobile phone models from different manufacturers, with the following key features:
 
 Company/Brand Name
+
 Model Name
+
 Device specifications (Weight, RAM, Front/Back Camera resolution, Processor, Battery capacity, Screen size)
+
 Official launch prices across five countries (Pakistan, India, China, USA, Dubai)
+
 Launch year
 
